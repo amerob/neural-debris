@@ -51,17 +51,6 @@ poisoned RetinaNet @ 0.05 ──► candidate boxes + base confidences (frozen b
    LB LADDER: v4_exact · flag015 · triage_eps · phi06 · weakeps  (one variable each)
 ```
 
-## 📊 Leaderboard history
-
-| iteration | submitted policy | boxes | public LB |
-|---|---|---|---|
-| v1 | plain fine-tune @0.22 | ~1160 | 245.30 |
-| v2 | rescoring w/ ε-spam + boosting | 8200 | 307.06 |
-| v3 | blind-differential flags | 2562 | 250 |
-| **v4** | **repair-differential flags → ε on full backbone** | **2563** | **206** ⭐ |
-| v5 | + wide members (diluted signal, style leak) | 2579 | 212 |
-| v6 | consensus drop-heavy (calibration-picked) | 829 | 235 |
-| v7 | LB ladder — in flight | — | — |
 
 ## 📁 Repository layout
 
