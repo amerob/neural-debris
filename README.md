@@ -4,7 +4,7 @@ Solution pipeline for the Kaggle competition **Neural Debris Removal in Streak D
 repairing a backdoor-poisoned RetinaNet that detects space-debris streaks in astronomical images,
 scored by the asymmetric **maCADD** metric against a hidden clean model.
 
-> **Author:** [amerob](https://github.com/amerob) · best public LB so far: **206** (baseline fine-tune: 245)
+> **Author:** [amerob](https://github.com/amerob) 
 
 ---
 
