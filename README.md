@@ -74,10 +74,6 @@ poisoned RetinaNet @ 0.05 ──► candidate boxes + base confidences (frozen b
 
 ## 🚀 Usage
 
-**On Kaggle (recommended):** upload `notebooks/debris_removal_ladder_pipeline_v7.ipynb`, attach the
-competition data, select **GPU T4 x2**, Run All (~40 min). Submit the ladder files per the printed
-schedule. After a good run, *Save Version with outputs* and attach it as an input next time — the
-notebook reuses trained `rep_*` weights and eliminates retraining noise.
 
 **Locally:**
 ```bash
