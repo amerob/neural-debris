@@ -1,4 +1,4 @@
-# 🛰️ Neural Debris Removal — De-Poisoning a Streak Detection Model
+# 🛰️ Neural Debris Removal ◉ De-Poisoning a Streak Detection Model
 
 Solution pipeline for the Kaggle competition **Neural Debris Removal in Streak Detection Models**:
 repairing a backdoor-poisoned RetinaNet that detects space-debris streaks in astronomical images,
